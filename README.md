@@ -28,6 +28,12 @@
 
 💻 Jupyter notebook is available [here](reinforcement-learning-101/03-Computing-the-optimal-policy-through-value-iteration.ipynb).
 
+### Intro to Markov decision process (MDP)
+
+![Screenshot](reinforcement-learning-101/Part-4.png)
+
+📹 Video is available [here](https://youtu.be/-suTQIcxItI).
+
 ***
 
 ## Introduction to machine learning and artificial neural networks
